@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is file from local.
+=======
+this is file from local and updated here as well
+>>>>>>> 3babcc936510662b786073cb00e43c92bce9c241
