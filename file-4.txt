@@ -1,3 +1,7 @@
 this is fourth file
 and added one new line.
+<<<<<<< HEAD
 hello world
+=======
+this is third line
+>>>>>>> dev
